@@ -1,6 +1,6 @@
 # Virus in image
 
-This repository is for my activity in out Elective 1: Cybersecurity. The goal of this activity is to hide code inside an image using diffent tools and methods.
+This repository is for my activity in our Elective: Cybersecurity. The goal of this activity is to hide code inside an image using diffent tools and methods.
 
 In this activity, I was able to hide code inside the image using the following:
 
